@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Welcome[[:space:]]to[[:space:]]the[[:space:]]Arena[[:space:]]-[[:space:]]RPG[[:space:]]Ambience[[:space:]](320[[:space:]]kbps).wav filter=lfs diff=lfs merge=lfs -text
+Welcome_to_the_Arena_-_RPG_Ambience__320_kbps_.uasset filter=lfs diff=lfs merge=lfs -text
